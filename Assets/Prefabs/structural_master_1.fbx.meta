@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 9022959fc148c77429988a443906579b
+timeCreated: 1540850547
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: structural_bridge_middle
+    100002: structural_bridge_start
+    100004: structural_corner_outward
+    100006: structural_corner_outward.001
+    100008: structural_floor_high_01
+    100010: structural_floor_high_02
+    100012: structural_floor_high_03
+    100014: structural_floor_low_01
+    100016: structural_floor_low_02
+    100018: structural_floor_low_03
+    100020: //RootNode
+    100022: structural_ramp
+    100024: structural_wall_a
+    100026: structural_wall_b
+    400000: structural_bridge_middle
+    400002: structural_bridge_start
+    400004: structural_corner_outward
+    400006: structural_corner_outward.001
+    400008: structural_floor_high_01
+    400010: structural_floor_high_02
+    400012: structural_floor_high_03
+    400014: structural_floor_low_01
+    400016: structural_floor_low_02
+    400018: structural_floor_low_03
+    400020: //RootNode
+    400022: structural_ramp
+    400024: structural_wall_a
+    400026: structural_wall_b
+    2300000: structural_bridge_middle
+    2300002: structural_bridge_start
+    2300004: structural_corner_outward
+    2300006: structural_corner_outward.001
+    2300008: structural_floor_high_01
+    2300010: structural_floor_high_02
+    2300012: structural_floor_high_03
+    2300014: structural_floor_low_01
+    2300016: structural_floor_low_02
+    2300018: structural_floor_low_03
+    2300020: structural_ramp
+    2300022: structural_wall_a
+    2300024: structural_wall_b
+    3300000: structural_bridge_middle
+    3300002: structural_bridge_start
+    3300004: structural_corner_outward
+    3300006: structural_corner_outward.001
+    3300008: structural_floor_high_01
+    3300010: structural_floor_high_02
+    3300012: structural_floor_high_03
+    3300014: structural_floor_low_01
+    3300016: structural_floor_low_02
+    3300018: structural_floor_low_03
+    3300020: structural_ramp
+    3300022: structural_wall_a
+    3300024: structural_wall_b
+    4300000: structural_bridge_middle
+    4300002: structural_bridge_start
+    4300004: structural_corner_outward
+    4300006: structural_corner_outward.001
+    4300008: structural_floor_high_01
+    4300010: structural_floor_high_02
+    4300012: structural_floor_high_03
+    4300014: structural_floor_low_01
+    4300016: structural_floor_low_02
+    4300018: structural_floor_low_03
+    4300020: structural_ramp
+    4300022: structural_wall_a
+    4300024: structural_wall_b
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
